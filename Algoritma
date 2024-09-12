@@ -1,0 +1,4 @@
+Algoritma:
+Langkah 1: Tentukan bilangan terbesar di antara dua angka (3 dan 4).
+Langkah 2: Mulai dari angka terbesar dan lakukan perulangan untuk mengecek apakah angka tersebut habis dibagi oleh kedua angka.
+Langkah 3: Jika ya, itu adalah KPK; jika tidak, tambahkan angka terbesar dengan nilai tersebut dan ulangi.
